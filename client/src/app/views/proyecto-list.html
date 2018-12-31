@@ -1,0 +1,74 @@
+
+
+<div class="head-page" *ngIf="identity && !confirmado">
+	<h1>{{titulo}}</h1>
+	<a *ngIf="identity && identity.rol =='ROLE_ADMIN' " href="" class="btn btn-default" [routerLink]="['/add-proyecto',identity._id]"> Añadir Proyecto</a>
+
+	<ul class="pagination pull-right">
+		<li><a [routerLink]="['/proyectos',pre_page]">&laquo;</a></li>
+		<li><a [routerLink]="['/proyectos',next_page]">&raquo;</a></li>
+	</ul>
+
+</div>
+
+<div class="clearfix"></div>
+
+<ul class="proyectos-list" *ngIf="identity && !confirmado">
+	<li *ngFor="let proyecto of proyectos" class="col-lg-3 proyecto-item">
+		<div class="proyecto-image">
+			<img src="{{url + 'get-image-proyecto/' + proyecto.image}}">
+		</div>
+		<div class="proyecto-name">
+		<a [routerLink]="['/proyecto', proyecto._id]">{{proyecto.nombre}}</a>
+		
+		<div class="buttons" *ngIf="identity.rol && identity.rol == 'ROLE_ADMIN' && proyecto.user == identity._id ">
+			<a [routerLink]="['/edit-proyecto', proyecto._id]" class="btn btn-sm btn-warning">Editar</a>
+			<a (click)="onDeleteConfirm(proyecto._id)"  class="btn btn-sm btn-danger">Borrar</a>
+		<div class="seguro" *ngIf="confirmado == proyecto._id">
+			<p>Seguro que quieres eliminar el proyecto:  {{proyecto.nombre}} </p>
+			<a (click)="onDeleteProyecto(proyecto._id)"  class="btn btn-sm btn-danger">Eliminar</a>
+			<a (click)="onCancelProyecto()"  class="btn btn-sm btn-primary">Cancelar</a>
+		</div>
+		<!--
+			Poner la vista para cuando no es admin
+		-->
+		</div>
+		</div>
+	</li>
+</ul>
+<div *ngIf="identity && confirmado" class="buscador">
+	<div class="col-lg-6">
+		<p>
+			<label>Buscar</label>
+			<input type="text"  id="search" class="form-control" > 
+			<a (click)="obtenerDato()" class="btn btn-sm btn-primary">Buscar</a>
+		</p>
+	</div>
+	<div class="col-lg-6">
+		<a href="#" class="btn btn-sm btn-primary">Mis proyectos</a>
+	</div>
+<ul class="proyectos-list" class="col-lg-12">
+	
+	<li *ngFor="let proyecto of proyectos" class="col-lg-3 proyecto-item">
+		<div class="proyecto-image">
+			<img src="{{url + 'get-image-proyecto/' + proyecto.image}}">
+		</div>
+		<div class="proyecto-name">
+		<a [routerLink]="['/proyecto', proyecto._id]">{{proyecto.nombre}}</a>
+		
+		<div class="buttons" *ngIf="identity.rol && identity.rol == 'ROLE_ADMIN' && proyecto.user == identity._id ">
+			<a [routerLink]="['/edit-proyecto', proyecto._id]" class="btn btn-sm btn-warning">Editar</a>
+			<a (click)="onDeleteConfirm(proyecto._id)"  class="btn btn-sm btn-danger">Borrar</a>
+		<div class="seguro" *ngIf="confirmado == proyecto._id">
+			<p>Seguro que quieres eliminar el proyecto:  {{proyecto.nombre}} </p>
+			<a (click)="onDeleteProyecto(proyecto._id)"  class="btn btn-sm btn-danger">Eliminar</a>
+			<a (click)="onCancelProyecto()"  class="btn btn-sm btn-primary">Cancelar</a>
+		</div>
+		<!--
+			Poner la vista para cuando no es admin
+		-->
+		</div>
+		</div>
+	</li>
+</ul>
+</div>

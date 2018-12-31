@@ -1,0 +1,49 @@
+<div *ngIf="identity && identity.rol == 'ROLE_ADMIN'">
+<h1>{{titulo}}</h1>
+
+	<form #formFichero="ngForm" (ngSubmit)="onSubmit()" class="col-lg-6">
+		<p>
+		<label>Nombre</label>
+		<input type="text" name="nombre" #nombre="ngModel" [(ngModel)]="fichero.nombre" class="form-control" required>
+	</p>
+
+	<p>
+		<label>Descripcion</label>
+		<textarea class="form-control" type="text" name="descripcion" #descripcion="ngModel" [(ngModel)]="fichero.descripcion" required></textarea>
+	</p>
+
+	<p>
+		<label>Fecha</label>
+		<input class="form-control" type="date" name="fecha" #fecha="ngModel" [(ngModel)]="fichero.fecha" required>
+	</p>
+	<p>
+		<label>Tipo de archivo</label>
+		<select class="form-control" name="tipo" #tipo="ngModel" [(ngModel)]="fichero.tipo" required>
+			<option value="imagen" class="form-control">imagen</option> 
+		    <option value="video" class="form-control">video</option> 
+		    <option value="documento" class="form-control">documento de texto (word,pdf,excel,etc..)</option>
+		    <option value="audio" class="form-control">Audio</option> 
+		</select>
+	
+	</p>
+	
+	<div *ngIf="is_edit">
+		<div class="fichero_file_for_edit" *ngIf="fichero.file && fichero.file != 'null'">
+			<img src="{{url + 'get-file-proyecto/'+ fichero.file}}" *ngIf="fichero.tipo == 'imagen'" >
+			<video controls *ngIf="fichero.tipo == 'video'" src="{{url + 'get-file-proyecto/'+ fichero.file}}" >
+			</video>
+			<audio controls *ngIf="fichero.tipo == 'audio'"> 
+				<source src="{{url + 'get-file-proyecto/'+ fichero.file}}"  type="audio/mpeg">
+			</audio>
+			<iframe [src]="sanitizer.bypassSecurityTrustResourceUrl(urlfichero)" width="600" height="400" *ngIf="fichero.tipo == 'documento'"></iframe>
+		</div>
+
+		<input type="file" placeholder="Subir archivo..." (change)="fileChangeEvent($event)">
+	</div>
+	<input type="submit" value="{{titulo}}" [disabled]="!formFichero.form.valid" class="btn btn-succes">
+	</form>
+</div>
+<div class="col-lg-6" *ngIf="!identity || identity.rol != 'ROLE_ADMIN'">
+	<h1>Error</h1>
+	<p>No tienes acceso</p>
+</div>

@@ -1,0 +1,942 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"bootstap"
+			],
+			[
+				"pro",
+				"proyecto"
+			],
+			[
+				"Pro",
+				"Proyecto"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"Acce",
+				"Access-Control-Allow-Headers"
+			],
+			[
+				"get",
+				"getFile"
+			],
+			[
+				"uplo",
+				"uploadFile"
+			],
+			[
+				"fich",
+				"ficheroDelete"
+			],
+			[
+				"fic",
+				"ficheroDelete"
+			],
+			[
+				"up",
+				"updateFichero"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"r",
+				"req"
+			],
+			[
+				"ficheros",
+				"ficheros"
+			],
+			[
+				"fi",
+				"find"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"sva",
+				"saveFichero"
+			],
+			[
+				"u",
+				"uploads"
+			],
+			[
+				"pr",
+				"proyecto"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"Pr",
+				"Proyecto"
+			],
+			[
+				"sa",
+				"saveProyecto"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"Proyec",
+				"proyecto"
+			],
+			[
+				"md",
+				"md_auth"
+			],
+			[
+				"pa",
+				"path_file"
+			],
+			[
+				"ima",
+				"imageFile"
+			],
+			[
+				"user",
+				"userUpdated"
+			],
+			[
+				"use",
+				"userId"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"m",
+				"md_auth"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"a",
+				"authorization"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"Fi",
+				"FicheroSchema"
+			],
+			[
+				"P",
+				"ProyectoSchema"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"no",
+				"nodemon"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"JS",
+				"json_encode"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"d",
+				"dia"
+			],
+			[
+				"Arreglom",
+				"Arreglomodelo"
+			],
+			[
+				"ArregloM",
+				"Arreglomodelo"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"da",
+				"datobusqueda"
+			],
+			[
+				"Arr",
+				"Arreglomarca"
+			],
+			[
+				"in",
+				"input-100"
+			],
+			[
+				"Ar",
+				"Arregloplaca"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"A",
+				"Arreglomarca"
+			],
+			[
+				"de",
+				"desing"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"valor",
+				"valor"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"onb",
+				"onsubmit\tAttr"
+			],
+			[
+				"regis",
+				"registro_descripcion"
+			],
+			[
+				"f",
+				"formulario"
+			],
+			[
+				"oke",
+				"onkeypress\tAttr"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"suma",
+				"sumando"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"su",
+				"sumando"
+			],
+			[
+				"nu",
+				"numero2"
+			],
+			[
+				"nume",
+				"numero1"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"sr",
+				"script"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"text-a",
+				"text-align-last\tproperty"
+			],
+			[
+				"ff",
+				"fffffa"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"alin",
+				"text-align\tproperty"
+			],
+			[
+				"cen",
+				"align-content\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"htm",
+				"html"
+			],
+			[
+				"co",
+				"correo"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"cone",
+				"db2_conn_error"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"Op",
+				"OPTION\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"all",
+				"align-self"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"cl",
+				"clubs"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"inpu",
+				"input-48"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"min",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/src/app/models/user.ts",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/app/models/proyecto.ts",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/app/models/fichero.ts",
+			"settings":
+			{
+				"buffer_size": 22,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "Install",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/Proyecto",
+		"/C/wamp64/www/Proyecto/client",
+		"/C/wamp64/www/Proyecto/client/src",
+		"/C/wamp64/www/Proyecto/client/src/app",
+		"/C/wamp64/www/Proyecto/client/src/app/models",
+		"/C/wamp64/www/Proyecto/client/src/assets",
+		"/C/wamp64/www/Proyecto/client/src/assets/css"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/Proyecto/client/src/index.html",
+		"/C/wamp64/www/Proyecto/client/src/assets/css/styles.css",
+		"/C/wamp64/www/Proyecto/client/src/styles.css",
+		"/C/wamp64/www/Proyecto/client/src/app/app.component.spec.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/app.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/app.module.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/app.component.html",
+		"/C/wamp64/www/Proyecto/client/src/app/app.component.css",
+		"/C/wamp64/www/Proyecto/api/controllers/fichero.js",
+		"/C/wamp64/www/Proyecto/api/rutes/proyecto.js",
+		"/C/wamp64/www/Proyecto/api/controllers/proyecto.js",
+		"/C/wamp64/www/Proyecto/api/models/ficheros.js",
+		"/C/wamp64/www/Proyecto/api/rutes/fichero.js",
+		"/C/wamp64/www/Proyecto/api/models/proyecto.js",
+		"/C/wamp64/www/Proyecto/api/controllers/creador.js",
+		"/C/wamp64/www/Proyecto/api/controllers/creadores.js",
+		"/C/wamp64/www/Proyecto/api/models/creadores.js",
+		"/C/wamp64/www/Proyecto/api/rutes/creadores.js",
+		"/C/wamp64/www/Proyecto/controllers/user.js",
+		"/C/wamp64/www/Proyecto/app.js",
+		"/C/wamp64/www/Proyecto/rutes/proyecto.js",
+		"/C/wamp64/www/Proyecto/rutes/fichero.js",
+		"/C/wamp64/www/Proyecto/controllers/fichero.js",
+		"/C/wamp64/www/Proyecto/models/ficheros.js",
+		"/C/wamp64/www/Proyecto/controllers/proyecto.js",
+		"/C/wamp64/www/Proyecto/middlewares/authenticated.js",
+		"/C/wamp64/www/Proyecto/models/proyecto.js",
+		"/C/wamp64/www/Proyecto/rutes/user.js",
+		"/C/wamp64/www/Proyecto/index.js",
+		"/C/wamp64/www/Proyecto/rutes/proyecto",
+		"/C/wamp64/www/Proyecto/models/user.js",
+		"/C/wamp64/www/Proyecto/services/jwt.js",
+		"/C/wamp64/www/Proyecto/package.json",
+		"/C/wamp64/www/Proyecto/controlers/user.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/Examen Desarrolo Web/js/indexformulario.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/Examen Desarrolo Web/js/formulario.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/clase2desarroloweb/script.js",
+		"/C/xampp/htdocs/Desarrolloweb/hola.php",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/Desarrollo Web/css/estilo.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/Desarrollo Web/index.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/Desarrollo Web/js/scroll.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/Desarrollo Web/js/codigo.js",
+		"/C/xampp/htdocs/Desarrolloweb/hola.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/formuvichez/Formulario.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/formuvichez/index.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/Examen Desarrolo Web/index.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Examen Desarrolo Web/css/estilo_registro.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Examen Desarrolo Web/index.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Examen Desarrolo Web/js/indexformulario.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/Desarrollo Web/js/validarformulario.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/Desarrollo Web/html/Login.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Examen Desarrolo Web/js/formulario.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Examen Desarrolo Web/style.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Examen Desarrolo Web/formulario.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/clase2desarroloweb/index.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/css/estilo.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/html/Login.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/js/validarformulario.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/FormTablObjJavaScript/index.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/FormTablObjJavaScript/index.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/FormTablObjJavaScript/estilos.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/clase2desarroloweb/script.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/clase2desarroloweb/index.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/index.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/html/servicio.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/html/sesion.html",
+		"/C/xampp/htdocs/Sitio Web/Css/Inicio/EstiloInicio.css",
+		"/C/xampp/htdocs/Sitio Web/Css/Login/EstiloLogin.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/estilo.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/codigo.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/scroll.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/deslisar.js",
+		"/C/xampp/htdocs/Sitio Web/Html/Login/Login.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Clase1Html.html",
+		"/C/xampp/htdocs/Sitio Web/Html/Login/abrirconexion.php",
+		"/C/xampp/htdocs/Sitio Web/Html/Login/consulta.php",
+		"/C/xampp/htdocs/Sitio Web/Html/Login/calculadora.php",
+		"/C/xampp/htdocs/Sitio Web/Html/Login/sesion.html",
+		"/C/xampp/htdocs/Sitio Web/Html/Login/validar.php",
+		"/C/xampp/htdocs/Sitio Web/Html/Login/cerrarconexion.php",
+		"/C/xampp/htdocs/Sitio Web/Html/Login/bienvenido.html",
+		"/C/Octave/Octave-4.0.0/README.html",
+		"/C/xampp/htdocs/Sitio Web/Html/Login/calculadora.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/Login/abrirconexion.php",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/Login/consulta.php",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/Login/Login.html",
+		"/C/xampp/htdocs/Curso PHP/hola_mundo.php",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/Inicio/Inicio.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Css/Inicio/EstiloInicio.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Css/Login/EstiloLogin.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/index.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/estilo.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Hoja1.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Css/estilo.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/index.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/index.txt",
+		"/C/xampp/seom_0.1/validar_loggin.php",
+		"/C/Users/Ricardo Monterrosa H/Desktop/seom_0.1/alumnos_de_curso.php",
+		"/C/Users/Ricardo Monterrosa H/eclipse/java-oxygen/eclipse/readme/readme_eclipse.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/escritorio/registro/registro.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/escritorio/registro/item.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Telematica/Telematica.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/eclipse-minimap-view-master/com.pauzies.minimap/.project",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Messenger.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/estilo-modal.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/estilo-item.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/estilo-formulario-modal.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/elegir_equipo_para_torneo.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Item-chack box/item.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/Modal.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/modal/estilo-item.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/modal/estilo-modal.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/modal/Modal.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/modal/estilo-formulario-modal.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Item-chack box/item.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/trabajo 2/item.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/trabajo 2/buscador.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/registro/item.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/registro/registro.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Item-chack box/este.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/registro/diseño.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/trabajo DB/buscador.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/trabajo DB/item.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/item.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio(1)/apache-tomcat-8.5.11/webapps/Trabajo/index.jsp",
+		"/C/Users/Ricardo Monterrosa H/Desktop/buscador.html",
+		"/C/Users/Ricardo Monterrosa H/Desktop/item.css",
+		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio(1)/apache-tomcat-8.5.11/webapps/Trabajo/proceso2.jsp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			"submit",
+			";\n",
+			">\n",
+			"\t\t\t\t<",
+			">\n",
+			"\">\n",
+			"\t\t\n",
+			"border",
+			";\n",
+			">\n",
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/src/app/models/user.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/src/app/models/proyecto.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/src/app/models/fichero.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-unicordoba.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

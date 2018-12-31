@@ -1,0 +1,33 @@
+<div *ngIf="identity && identity.rol == 'ROLE_ADMIN'">
+<h1>{{titulo}}</h1>
+
+<form #formProyecto="ngForm" (ngSubmit)="onSubmit()" class="col-lg-6">
+	<p>
+		<label>Nombre</label>
+		<input type="text" name="nombre" #nombre="ngModel" [(ngModel)]="proyecto.nombre" class="form-control" required>
+	</p>
+
+	<p>
+		<label>Descripcion</label>
+		<textarea class="form-control" type="text" name="descripcion" #descripcion="ngModel" [(ngModel)]="proyecto.descripcion" required></textarea>
+	</p>
+
+	<p>
+		<label>Fecha</label>
+		<input class="form-control" type="date" name="fecha" #fecha="ngModel" [(ngModel)]="proyecto.fecha" required>
+	</p>
+	
+	<div *ngIf="is_edit">
+		<div class="proyecto_image_for_edit" *ngIf="proyecto.image && proyecto.image != null">
+			<img src="{{url + 'get-image-proyecto/'+ proyecto.image}}">
+		</div>
+
+		<input type="file" placeholder="Subir imagen..." (change)="fileChangeEvent($event)">
+	</div>
+	<input type="submit" value="{{titulo}}" [disabled]="!formProyecto.form.valid" class="btn btn-succes">
+</form>
+
+<div class="col-lg-6" *ngIf="!identity || identity.rol != 'ROLE_ADMIN'">
+	<h1>Error</h1>
+	<p>No tienes acceso</p>
+</div>
