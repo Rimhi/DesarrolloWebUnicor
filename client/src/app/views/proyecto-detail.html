@@ -32,7 +32,7 @@
 					</audio>
 					<iframe [src]="sanitizer.bypassSecurityTrustResourceUrl(url + 'get-file-proyecto/'+ fichero.file)" width="300" height="200" *ngIf="fichero.tipo == 'documento'"></iframe>
 				</div>
-				<div class="buttons" *ngIf="identity.rol && identity.rol == 'ROLE_ADMIN'">
+				<div class="buttons" *ngIf="identity.rol && identity.rol == 'ROLE_ADMIN' && proyecto.user._id == identity._id">
 					<a [routerLink]="['/edit-fichero', fichero._id]" class="btn btn-sm btn-warning">Editar</a>
 					<a (click)="onDeleteConfirm(fichero._id)"  class="btn btn-sm btn-danger">Borrar</a>
 				<div class="seguro" *ngIf="confirmado == fichero._id && proyecto.user._id == identity._id">

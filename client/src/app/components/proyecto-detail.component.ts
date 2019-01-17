@@ -56,7 +56,7 @@ export class ProyectoDetailComponent implements OnInit{
 			}else{
 				this.proyecto = response.proyecto;
 				//sacar los ficheros de los proyectos
-				this._ficheroService.getFicheros(this.token,this.proyecto._id).subscribe(
+				this._ficheroService.getFicheros(this.token,id).subscribe(
 				(response: any) => {
 					if(!response.ficheros){
 						alert('este proyecto no tiene archivos');

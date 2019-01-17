@@ -15,12 +15,15 @@ import { ProyectoService } from '../services/proyecto.service';
 
 export class ProyectoSearchComponent implements OnInit{
 	public titulo: string;
-	public proyectos: Proyecto[];
+	public proyectos: Proyecto[] =[];
 	public identity;
 	public token;
 	public url: string;
 	public confirmado;
 	public nombre;
+	public next_page;
+	public pre_page;
+	public ArregloProyectos:any[] = [];
 
 	constructor(
 	private _route: ActivatedRoute, 
@@ -33,6 +36,8 @@ export class ProyectoSearchComponent implements OnInit{
 		this.token = this._userService.getToken();
 		this.url = GLOBAL.url;
 		this.confirmado = true;
+		this.next_page = 1;
+		this.pre_page = 1;
 		
 
 
@@ -40,35 +45,8 @@ export class ProyectoSearchComponent implements OnInit{
 
 	ngOnInit(){
 		console.log('Lista de proyectos cargando ...');
-
-
 		//listado de proyectos
-	}
-	getProyectos(nombre:string){		
-			this._proyectoService.searchProyecto(this.token,nombre).subscribe(
-				(response: any) => {
-					if(!response.proyectos){
-						alert('problemas con el servidor');
-					}else{
-					let obj = response.proyectos
-					 for(var key in obj) {
-				        if(obj.hasOwnProperty(key)){
-				           alert('no hay proyectos con el nombre '+nombre);
-				   		}
-				       }
-						this.proyectos = response.proyectos;
-						console.log(this.proyectos);
-						
-					}
-				},
-				error=>{
-					var errorMessage = <any>error;
-				  		if(errorMessage!=null){
-				  		
-				  			console.log(error);
-				  		}
-				}
-			);		
+		this.Obtenertodo();
 	}
 	onDeleteConfirm(id){
 		this.confirmado = id;
@@ -93,11 +71,6 @@ export class ProyectoSearchComponent implements OnInit{
 		);	
 
 	}*/
-	obtenerDato(){
-		    //this.nombre = document.getElementById('search').value;
-			this.getProyectos(this.nombre);
-		
-	}
 	/*
 	myProyecto(){
 		this._proyectoService.myProyecto(this.token,this.identity._id).subscribe(
@@ -119,5 +92,49 @@ export class ProyectoSearchComponent implements OnInit{
 				}
 			);
 	}*/
+	Obtenertodo(){
+
+		this._route.params.forEach((params: Params)=>{
+			let page = +params['page'];
+				if(!page){
+					page = 1; 
+				}else{
+					this.next_page = page + 1;
+					this.pre_page = page - 1;
+					if(this.pre_page == 0){
+						this.pre_page = 1;
+					}
+				}
+			this._proyectoService.getProyectos(this.token, page).subscribe(
+				(response: any) => {
+					if(!response.proyectos){
+						this._router.navigate(['/']);
+					}else{
+						this.proyectos = response.proyectos;
+						//console.log(this.proyectos);
+					}
+				},
+				error=>{
+					var errorMessage = <any>error;
+				  		if(errorMessage!=null){
+				  		
+				  			console.log(error);
+				  		}
+				}
+			);
+		});	
+
+	}
+	getProyectos(cadena:string){
+	this.ArregloProyectos = [];
+	for (let proyecto of this.proyectos) {
+			let nombre = proyecto.nombre.toLowerCase();
+
+			if (nombre.indexOf(cadena)>=0) {
+				this.ArregloProyectos.push(proyecto);	
+			}
+		}
+		console.log(this.ArregloProyectos);
+	}
 	
 }

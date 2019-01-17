@@ -4,12 +4,144 @@
 		"selected_items":
 		[
 			[
-				"bo",
-				"bootstap"
+				"pr",
+				"proyectos"
+			],
+			[
+				"Proyec",
+				"Proyecto"
+			],
+			[
+				"PRO",
+				"proyecto"
+			],
+			[
+				"proye",
+				"proyectos"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"co",
+				"col-lg-6"
 			],
 			[
 				"pro",
-				"proyecto"
+				"proyectoNombre"
+			],
+			[
+				"em",
+				"embed\tTag"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"Tipo",
+				"tipo"
+			],
+			[
+				"fi",
+				"fichero"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"id",
+				"identity"
+			],
+			[
+				"h",
+				"h5\tTag"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"ia",
+				"image"
+			],
+			[
+				"cl",
+				"col-lg-6"
+			],
+			[
+				"t",
+				"titulo"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"bord",
+				"border-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"user_",
+				"user_register"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"c",
+				"col-lg-6"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bo",
+				"bootstap"
 			],
 			[
 				"Pro",
@@ -56,24 +188,8 @@
 				"ficheros"
 			],
 			[
-				"fi",
-				"find"
-			],
-			[
-				"re",
-				"req"
-			],
-			[
 				"sva",
 				"saveFichero"
-			],
-			[
-				"u",
-				"uploads"
-			],
-			[
-				"pr",
-				"proyecto"
 			],
 			[
 				"al",
@@ -96,16 +212,8 @@
 				"message"
 			],
 			[
-				"Proyec",
-				"proyecto"
-			],
-			[
 				"md",
 				"md_auth"
-			],
-			[
-				"pa",
-				"path_file"
 			],
 			[
 				"ima",
@@ -184,10 +292,6 @@
 				"echo"
 			],
 			[
-				"for",
-				"for\tfor …"
-			],
-			[
 				"JS",
 				"json_encode"
 			],
@@ -222,10 +326,6 @@
 			[
 				"Arr",
 				"Arreglomarca"
-			],
-			[
-				"in",
-				"input-100"
 			],
 			[
 				"Ar",
@@ -280,10 +380,6 @@
 				"onkeypress\tAttr"
 			],
 			[
-				"mar",
-				"margin-top\tproperty"
-			],
-			[
 				"te",
 				"textarea\tTag"
 			],
@@ -320,10 +416,6 @@
 				"script"
 			],
 			[
-				"ma",
-				"margin\tproperty"
-			],
-			[
 				"text",
 				"text-decoration\tproperty"
 			],
@@ -342,10 +434,6 @@
 			[
 				"border-r",
 				"border-radius\tproperty"
-			],
-			[
-				"margin",
-				"margin-top\tproperty"
 			],
 			[
 				"di",
@@ -372,10 +460,6 @@
 				"inline-block\tdisplay"
 			],
 			[
-				"li",
-				"line-height\tproperty"
-			],
-			[
 				"fl",
 				"float\tproperty"
 			],
@@ -392,10 +476,6 @@
 				"html"
 			],
 			[
-				"co",
-				"correo"
-			],
-			[
 				"loca",
 				"location"
 			],
@@ -404,16 +484,8 @@
 				"consulta"
 			],
 			[
-				"c",
-				"class\tAttr"
-			],
-			[
 				"cone",
 				"db2_conn_error"
-			],
-			[
-				"tex",
-				"text-align"
 			],
 			[
 				"l",
@@ -428,14 +500,6 @@
 				"background"
 			],
 			[
-				"col",
-				"color"
-			],
-			[
-				"h",
-				"html\thtml"
-			],
-			[
 				"inli",
 				"inline-block"
 			],
@@ -448,102 +512,19 @@
 				"OPTION\tTag"
 			],
 			[
-				"st",
-				"style\tTag"
-			],
-			[
 				"margi",
 				"margin"
-			],
-			[
-				"all",
-				"align-self"
-			],
-			[
-				"i",
-				"input\tTag"
-			],
-			[
-				"bor",
-				"border"
-			],
-			[
-				"border-s",
-				"border-spacing"
-			],
-			[
-				"ba",
-				"background"
-			],
-			[
-				"t",
-				"text-align"
-			],
-			[
-				"cl",
-				"clubs"
-			],
-			[
-				"op",
-				"option\tTag"
-			],
-			[
-				"flex",
-				"flex-wrap"
-			],
-			[
-				"borde",
-				"border-bottom"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"box",
-				"box-sizing"
-			],
-			[
-				"inpu",
-				"input-48"
-			],
-			[
-				"ac",
-				"action\tAttr"
-			],
-			[
-				"min",
-				"min-width"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "client/src/app/models/user.ts",
+			"file": "client/src/index.html",
 			"settings":
 			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/src/app/models/proyecto.ts",
-			"settings":
-			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/src/app/models/fichero.ts",
-			"settings":
-			{
-				"buffer_size": 22,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"buffer_size": 613,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -555,9 +536,25 @@
 	"command_palette":
 	{
 		"height": 137.0,
-		"last_filter": "Install",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
 			[
 				"Install",
 				"Package Control: Install Package"
@@ -587,26 +584,97 @@
 		"/C/wamp64/www/Proyecto/client",
 		"/C/wamp64/www/Proyecto/client/src",
 		"/C/wamp64/www/Proyecto/client/src/app",
-		"/C/wamp64/www/Proyecto/client/src/app/models",
+		"/C/wamp64/www/Proyecto/client/src/app/components",
 		"/C/wamp64/www/Proyecto/client/src/assets",
-		"/C/wamp64/www/Proyecto/client/src/assets/css"
+		"/C/wamp64/www/Proyecto/client/src/assets/css",
+		"/C/wamp64/www/Proyecto/client/src/assets/js"
 	],
 	"file_history":
 	[
-		"/C/wamp64/www/Proyecto/client/src/index.html",
-		"/C/wamp64/www/Proyecto/client/src/assets/css/styles.css",
-		"/C/wamp64/www/Proyecto/client/src/styles.css",
-		"/C/wamp64/www/Proyecto/client/src/app/app.component.spec.ts",
-		"/C/wamp64/www/Proyecto/client/src/app/app.component.ts",
 		"/C/wamp64/www/Proyecto/client/src/app/app.module.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/app.routing.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/app.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/components/home.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/assets/js/jquery.min.js",
+		"/C/wamp64/www/Proyecto/client/src/assets/css/styles.css",
 		"/C/wamp64/www/Proyecto/client/src/app/app.component.html",
-		"/C/wamp64/www/Proyecto/client/src/app/app.component.css",
-		"/C/wamp64/www/Proyecto/api/controllers/fichero.js",
-		"/C/wamp64/www/Proyecto/api/rutes/proyecto.js",
+		"/C/Users/Ricardo Monterrosa H/Desktop/animaciones para proyectos web/07-BookPreview/.DS_Store",
+		"/C/Users/Ricardo Monterrosa H/Desktop/animaciones para proyectos web/03-Animate CSS/animate.css/animate.css",
+		"/C/wamp64/www/Proyecto/client/src/app/components/fichero-add.component.ts",
 		"/C/wamp64/www/Proyecto/api/controllers/proyecto.js",
-		"/C/wamp64/www/Proyecto/api/models/ficheros.js",
+		"/C/wamp64/www/Proyecto/api/controllers/fichero.js",
+		"/C/wamp64/www/Proyecto/api/middlewares/authenticated.js",
+		"/C/wamp64/www/Proyecto/client/src/app/views/proyecto-detail.html",
+		"/C/wamp64/www/Proyecto/client/src/app/components/proyecto-detail.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/services/proyecto.service.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/views/proyecto-list.html",
+		"/C/wamp64/www/Proyecto/api/services/jwt.js",
+		"/C/wamp64/www/Proyecto/api/controllers/user.js",
+		"/C/wamp64/www/Proyecto/client/src/app/services/fichero.service.ts",
 		"/C/wamp64/www/Proyecto/api/rutes/fichero.js",
+		"/C/wamp64/www/Proyecto/api/models/user.js",
+		"/C/wamp64/www/Proyecto/client/src/app/components/proyecto-search.component.ts",
+		"/C/wamp64/www/Proyecto/api/rutes/proyecto.js",
+		"/C/wamp64/www/Proyecto/api/app.js",
+		"/C/wamp64/www/Proyecto/api/index.js",
+		"/C/wamp64/www/Proyecto/api/models/ficheros.js",
+		"/C/wamp64/www/Proyecto/client/src/app/components/proyecto-add.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/components/fichero-edit.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/views/fichero-add.html",
+		"/C/wamp64/www/Proyecto/api/rutes/user.js",
+		"/C/wamp64/www/Proyecto/client/src/app/components/proyecto-edit.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/views/proyecto-add.html",
+		"/C/wamp64/www/Proyecto/client/src/app/services/upload.service.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/components/proyecto-list.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/models/fichero.ts",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/6GMKAX3A2OzATy5HAYhWNPJ9.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/d9QMA9fXbNxGdpZZW2T54RT8.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/E6bKHWNOjY1M_GOCwKOjgUGn.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/ezZw1O4yBnH_avomPTZuFQM8.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/GoWlPVsx-JTm0EDmPbgFJHyu.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/GwuXd1BJgC5dchaaaQZR50M-.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/Ix1h71UpRomAoJVtq4c1PBzl.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/mDGK3LB_ghTlZu-GVuhdJup5.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/RVpB9CYERCNI_dvOiq7wbR7I.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/RxjUTM4yIwJfYCxZIrbot6E9.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/SK15_iUSpu4Ep7D_SLeNtx9P.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/SNIzgBSsZJGZ1U0qej5AgpeO.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/utzJJT0wW2BVBJg9m6mDXxzz.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/tpXU-v7DEqh_2gTCle6HL4ri.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/V7DOlhrL17Y0pEzDe_QmLGqz.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/x2D6Be0Lzm6YqQ-C5BuBmdpZ.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/zqum85r2ovV2ahsta6oPN6BX.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/7Ndix8jeyoP3MNedfnkk0xcE.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/2z-r2oLY_NDXYu7dROEOedBD.jpg",
+		"/C/wamp64/www/Proyecto/api/uploads/proyectos/0hfwCcQ8NQMU6u9xouvn5m5n.jpg",
+		"/C/wamp64/www/Proyecto/client/src/app/services/user.service.ts",
+		"/C/wamp64/www/Proyecto/client/src/index.html",
+		"/C/wamp64/www/Proyecto/client/src/app/components/user-edit.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/components/user-list.component.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/views/user-list.html",
 		"/C/wamp64/www/Proyecto/api/models/proyecto.js",
+		"/C/wamp64/www/Proyecto/client/src/tsconfig.app.json",
+		"/C/wamp64/www/Proyecto/client/src/tsconfig.spec.json",
+		"/C/wamp64/www/Proyecto/client/src/tslint.json",
+		"/C/wamp64/www/Proyecto/client/.editorconfig",
+		"/C/wamp64/www/Proyecto/client/angular.json",
+		"/C/wamp64/www/Proyecto/client/package-lock.json",
+		"/C/wamp64/www/Proyecto/client/package.json",
+		"/C/wamp64/www/Proyecto/client/README.md",
+		"/C/wamp64/www/Proyecto/client/tsconfig.json",
+		"/C/wamp64/www/Proyecto/client/tslint.json",
+		"/C/wamp64/www/Proyecto/client/src/karma.conf.js",
+		"/C/wamp64/www/Proyecto/client/src/app/app.component.spec.ts",
+		"/C/wamp64/www/Proyecto/client/src/styles.css",
+		"/C/wamp64/www/Proyecto/client/src/polyfills.ts",
+		"/C/wamp64/www/Proyecto/client/src/environments/environment.ts",
+		"/C/wamp64/www/Proyecto/client/src/main.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/models/user.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/models/proyecto.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/views/home.html",
+		"/C/wamp64/www/Proyecto/client/src/app/views/user-edit.html",
+		"/C/wamp64/www/Proyecto/client/src/app/services/global.ts",
+		"/C/wamp64/www/Proyecto/client/src/app/app.component.css",
 		"/C/wamp64/www/Proyecto/api/controllers/creador.js",
 		"/C/wamp64/www/Proyecto/api/controllers/creadores.js",
 		"/C/wamp64/www/Proyecto/api/models/creadores.js",
@@ -650,77 +718,7 @@
 		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio/clase2desarroloweb/index.html",
 		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/css/estilo.css",
 		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/html/Login.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/js/validarformulario.js",
-		"/C/Users/Ricardo Monterrosa H/Desktop/FormTablObjJavaScript/index.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/FormTablObjJavaScript/index.js",
-		"/C/Users/Ricardo Monterrosa H/Desktop/FormTablObjJavaScript/estilos.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/clase2desarroloweb/script.js",
-		"/C/Users/Ricardo Monterrosa H/Desktop/clase2desarroloweb/index.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/index.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/html/servicio.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/html/sesion.html",
-		"/C/xampp/htdocs/Sitio Web/Css/Inicio/EstiloInicio.css",
-		"/C/xampp/htdocs/Sitio Web/Css/Login/EstiloLogin.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/estilo.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/codigo.js",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/scroll.js",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/deslisar.js",
-		"/C/xampp/htdocs/Sitio Web/Html/Login/Login.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Clase1Html.html",
-		"/C/xampp/htdocs/Sitio Web/Html/Login/abrirconexion.php",
-		"/C/xampp/htdocs/Sitio Web/Html/Login/consulta.php",
-		"/C/xampp/htdocs/Sitio Web/Html/Login/calculadora.php",
-		"/C/xampp/htdocs/Sitio Web/Html/Login/sesion.html",
-		"/C/xampp/htdocs/Sitio Web/Html/Login/validar.php",
-		"/C/xampp/htdocs/Sitio Web/Html/Login/cerrarconexion.php",
-		"/C/xampp/htdocs/Sitio Web/Html/Login/bienvenido.html",
-		"/C/Octave/Octave-4.0.0/README.html",
-		"/C/xampp/htdocs/Sitio Web/Html/Login/calculadora.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/Login/abrirconexion.php",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/Login/consulta.php",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/Login/Login.html",
-		"/C/xampp/htdocs/Curso PHP/hola_mundo.php",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/Inicio/Inicio.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Css/Inicio/EstiloInicio.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Css/Login/EstiloLogin.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/index.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/estilo.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Hoja1.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Css/estilo.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/index.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Sitio Web/Html/index.txt",
-		"/C/xampp/seom_0.1/validar_loggin.php",
-		"/C/Users/Ricardo Monterrosa H/Desktop/seom_0.1/alumnos_de_curso.php",
-		"/C/Users/Ricardo Monterrosa H/eclipse/java-oxygen/eclipse/readme/readme_eclipse.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/escritorio/registro/registro.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/escritorio/registro/item.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Telematica/Telematica.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/eclipse-minimap-view-master/com.pauzies.minimap/.project",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Messenger.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/estilo-modal.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/estilo-item.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/estilo-formulario-modal.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/elegir_equipo_para_torneo.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Item-chack box/item.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/elegir_equipo_para_torneo/Modal.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/modal/estilo-item.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/modal/estilo-modal.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/modal/Modal.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/modal/estilo-formulario-modal.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Item-chack box/item.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/trabajo 2/item.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/trabajo 2/buscador.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/registro/item.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/registro/registro.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Item-chack box/este.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/registro/diseño.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/trabajo DB/buscador.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/trabajo DB/item.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/item.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio(1)/apache-tomcat-8.5.11/webapps/Trabajo/index.jsp",
-		"/C/Users/Ricardo Monterrosa H/Desktop/buscador.html",
-		"/C/Users/Ricardo Monterrosa H/Desktop/item.css",
-		"/C/Users/Ricardo Monterrosa H/Desktop/Escritorio(1)/apache-tomcat-8.5.11/webapps/Trabajo/proceso2.jsp"
+		"/C/Users/Ricardo Monterrosa H/Desktop/Desarrollo Web/js/validarformulario.js"
 	],
 	"find":
 	{
@@ -728,7 +726,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 104.0,
 		"where_history":
 		[
 		]
@@ -738,6 +736,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"params",
+			"_route",
+			".params",
+			"user",
 			");\n",
 			"submit",
 			";\n",
@@ -767,85 +769,31 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "client/src/app/models/user.ts",
+					"file": "client/src/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 613,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								572,
+								572
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "client/src/app/models/proyecto.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "client/src/app/models/fichero.ts",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								20,
-								20
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -934,7 +882,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 320.0,
+	"side_bar_width": 377.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

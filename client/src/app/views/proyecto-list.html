@@ -40,8 +40,8 @@
 	<div class="col-lg-6">
 		<p>
 			<label>Buscar</label>
-			<input type="text"  id="search" class="form-control" > 
-			<a (click)="obtenerDato()" class="btn btn-sm btn-primary">Buscar</a>
+			<input type="text"  id="search" class="form-control" #busqueda (keyup.enter)="getProyectos(busqueda.value)"> 
+			<a (click)="getProyectos(busqueda.value)" class="btn btn-sm btn-primary">Buscar</a>
 		</p>
 	</div>
 	<div class="col-lg-6">
@@ -49,7 +49,7 @@
 	</div>
 <ul class="proyectos-list" class="col-lg-12">
 	
-	<li *ngFor="let proyecto of proyectos" class="col-lg-3 proyecto-item">
+	<li *ngFor="let proyecto of ArregloProyectos" class="col-lg-3 proyecto-item">
 		<div class="proyecto-image">
 			<img src="{{url + 'get-image-proyecto/' + proyecto.image}}">
 		</div>
