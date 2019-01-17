@@ -54,11 +54,11 @@ export class ProyectoSearchComponent implements OnInit{
 	onCancelProyecto(){
 		this.confirmado = null;
 	}
-	/*
+	
 	onDeleteProyecto(id){
 		this._proyectoService.deleteProyecto(this.token, id).subscribe(
 			(response: any) => {
-						this.getProyectos();
+				this.myProyecto();
 				},
 				error=>{
 					var errorMessage = <any>error;
@@ -70,28 +70,19 @@ export class ProyectoSearchComponent implements OnInit{
 
 		);	
 
-	}*/
-	/*
+	}
+	
 	myProyecto(){
-		this._proyectoService.myProyecto(this.token,this.identity._id).subscribe(
-				(response: any) => {
-					if(!response.proyectos){
-						alert('no tienes proyectos');
-					}else{
-						this.proyectos = response.proyectos;
-						console.log(this.proyectos);
-
-					}
-				},
-				error=>{
-					var errorMessage = <any>error;
-				  		if(errorMessage!=null){
-				  		
-				  			console.log(error);
-				  		}
-				}
-			);
-	}*/
+	this.ArregloProyectos = [];
+	for (let proyecto of this.proyectos) {
+			let id = proyecto.user;
+			if (id.indexOf(this.identity._id)>=0) {
+				this.ArregloProyectos.push(proyecto);	
+			}
+		}
+		
+		console.log(this.ArregloProyectos);
+	}
 	Obtenertodo(){
 
 		this._route.params.forEach((params: Params)=>{
